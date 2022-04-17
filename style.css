@@ -1,0 +1,30 @@
+
+.{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: 'DM Serif Display', serif;
+
+}
+
+.center{
+max-width: 1100px;
+margin: 0 auto;
+padding: 0 2%;
+display:flex;
+}
+
+header{
+background-color: #115044;
+padding: 20px 0;
+border-bottom:2px solid white ;
+}
+
+menu a{
+color: #cd665c;
+font-size: 14px;
+text-decoration: none;
+}
+.menu a:hover{
+    color:#cd665c
+}
